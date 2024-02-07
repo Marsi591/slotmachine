@@ -38,13 +38,6 @@ This project combines these technologies to create an engaging and visually appe
 
 ## Getting Started
 
-How to Play:
-Press the "Spin" button to start the slot machine.
-Adjust your bet by selecting from the available options (100, 200, 500, 1k).
-Watch the reels spin and await the results.
-Check the dynamic balance display and result notifications to see if you've won.
-Enjoy the thrill of a virtual slot machine experience without the risk of losing real money!
-
 ### Prerequisites
 
 None
@@ -57,3 +50,9 @@ None
 
 3. Have Fun!
 
+### How to Play:
+Press the "Spin" button to start the slot machine.
+Adjust your bet by selecting from the available options (100, 200, 500, 1k).
+Watch the reels spin and await the results.
+Check the dynamic balance display and result notifications to see if you've won.
+Enjoy the thrill of a virtual slot machine experience without the risk of losing real money!
